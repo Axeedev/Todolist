@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo List Final</string>
+    <string name="no_content">no_content</string>
+    <string name="type_a_note">Введите текст заметки:</string>
+    <string name="low">Low</string>
+    <string name="add">Save note</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="SomeText">SomeText</string>
+</resources>
